@@ -1,4 +1,4 @@
-
+desktop file is yyyy
 
 Go back to the folder/repository screen on Github that you just left, and refresh it. 
 The title 'Quick setup — if you’ve done this kind of thing before' should disappear, 
